@@ -1,0 +1,6 @@
+{
+  "name": "Tumble Tower",
+  "description": "A Jenga-style tower game for 2 to 4 players built with custom Stack, Queue, and Singly LinkedList data structures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
